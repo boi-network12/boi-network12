@@ -50,7 +50,7 @@ An e-commerce platform developed with React.js and Express.js, featuring product
 - **Email:** [kamdilichukwu2020@gmail.com](mailto:kamdilichukwu2020@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kamdilichukwu-okolo-084037284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Twitter:** [@kamdi_dev (x)](https://x.com/kamdi_dev?t=9A6RWZoO4QhfszlKfL7yzQ&s=09)
-- **My Website:** [kamdi-devs](https://kamdi_devs.vercel.com/)
+- **My Website:** [kamdi-devs](https://kamdi_devs.vercel.app/)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just say hi!
 
