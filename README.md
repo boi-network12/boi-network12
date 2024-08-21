@@ -56,6 +56,19 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 ## Stats
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boi_network12&layout=compact&theme=radical)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi_network12&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi_network12&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=boi_network12&label=Profile%20views&color=blueviolet&style=flat)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boi_network12&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boi_network12&show_icons=true&theme=radical)
 
 <!-- Optional: Add a GitHub streak stats -->
