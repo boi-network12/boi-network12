@@ -58,9 +58,7 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 ## Stats
 
 
-
-![Top Langs](https://kamdi-devs.vercel.app/api/top-langs/?username=boi-network12&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boi-network12&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi-network12&theme=radical)
 
