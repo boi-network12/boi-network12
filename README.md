@@ -1,6 +1,6 @@
 # Hello, I'm Okolo Kamdilichukwu Samuel 👋
 
-![Profile Banner](https://drive.google.com/uc?export=view&id=160IbKvAl6GinPAsk15HGz10wNRf7sxIF)
+![Profile Banner](https://drive.google.com/file/d/160IbKvAl6GinPAsk15HGz10wNRf7sxIF/view?usp=drivesdk)
  <!-- Optional: Add a banner image -->
 
 ## About Me
