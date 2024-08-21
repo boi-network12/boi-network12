@@ -59,19 +59,19 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 
 
-![Top Langs](https://kamdi-devs.vercel.app/api/top-langs/?username=boi_network12&layout=compact&theme=radical)
+![Top Langs](https://kamdi-devs.vercel.app/api/top-langs/?username=boi-network12&layout=compact&theme=radical)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi_network12&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi_network12&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=boi_network12&label=Profile%20views&color=blueviolet&style=flat)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi-network12&theme=radical)
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boi_network12&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boi_network12&show_icons=true&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=boi-network12&label=Profile%20views&color=blueviolet&style=flat)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boi-network12&theme=radical)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boi-network12&show_icons=true&theme=radical)
 
 <!-- Optional: Add a GitHub streak stats -->
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=boi_network12&theme=radical)
+![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=boi-network12&theme=radical)
