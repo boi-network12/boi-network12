@@ -2,10 +2,14 @@
 
 ![Profile Banner](https://firebasestorage.googleapis.com/v0/b/kamdi-portifolio.appspot.com/o/profilePictures%2F6Vo4FOvSSVgoFUMhilFeOfIAQAD3?alt=media&token=f826dae1-2b3e-4807-ba22-66b3cd29ab6b)
  <!-- Optional: Add a banner image -->
+## intro
+
+Hi there! I'm a creative full-stack developer with a passion for turning ideas into powerful digital solutions.
+ 
 
 ## About Me
 
-I am a passionate web and mobile app developer with a strong background in:
+I’m a passionate full-stack developer specializing in building modern, performant web and mobile applications. I love solving problems, learning new technologies, and working on impactful projects.
 
 - **Front-End Development:** React.js, React Native, Lynxjs 
 - **Back-End Development:** Express.js
