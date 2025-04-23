@@ -41,12 +41,13 @@ I enjoy building user-friendly and performant applications, and I'm always excit
 - Docker
 
 
-## Contact Me
+## Connect with me
 
-- **Email:** [kamdilichukwu2020@gmail.com](mailto:kamdilichukwu2020@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kamdilichukwu-okolo-084037284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter:** [@kamdi_dev (x)](https://x.com/kamdi_dev?t=9A6RWZoO4QhfszlKfL7yzQ&s=09)
-- **My Website:** [kamdi-devs](https://kamdidev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kamdilichukwu-okolo-084037284)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)](https://x.com/kamdi_dev)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:kamdilichukwu2020@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge)](https://kamdidev.vercel.app)
+
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just say hi!
 
