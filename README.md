@@ -51,9 +51,6 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=boi-network12&label=Profile%20views&color=blueviolet&style=flat)
-
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boi-network12&theme=radical)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boi-network12&show_icons=true&theme=radical)
