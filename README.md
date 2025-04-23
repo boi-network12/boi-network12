@@ -15,31 +15,21 @@ I’m a passionate full-stack developer specializing in building modern, perform
 
 I enjoy building user-friendly and performant applications, and I'm always excited to learn new technologies and take on challenging projects.
 
-## Technologies I Use
+## Tech Stack
 
-### Front-End
-- React.js
-- lynx.js
-- React Native
-- HTML5
-- CSS3
-- Tailwind
-- JavaScript (ES6+)
-- Typescript
-- Three.js
-
-### Back-End
-- Node.js
-- Express.js
-
-### Databases
-- MongoDB
-- Firebase
-
-### Tools
-- Git & GitHub
-- Docker
-
+![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React%20Native-black?logo=react&style=for-the-badge)
+![Lynxjs](https://img.shields.io/badge/-Lynx.js-black?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express-black?logo=express&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-black?logo=html5&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwind-css&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=for-the-badge)
 
 ## Connect with me
 
