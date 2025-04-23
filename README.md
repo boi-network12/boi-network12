@@ -1,8 +1,6 @@
 # Hello, I'm Okolo Kamdilichukwu Samuel 👋
 
 
-## intro
-
 Hi there! I'm a creative full-stack developer with a passion for turning ideas into powerful digital solutions.
  
 
