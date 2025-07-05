@@ -4,15 +4,16 @@
 
 Hi there! I'm a creative full-stack developer with a passion for turning ideas into powerful digital solutions.
  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=boi-network12.visitor-badge)
 
 ## About Me
 
 I’m a passionate full-stack developer specializing in building modern, performant web and mobile applications. I love solving problems, learning new technologies, and working on impactful projects.
 
-- **Front-End Development:** React.js, React Native, Lynxjs 
+- **Front-End Development:** React.js, React Native, Lynxjs, Nextjs
 - **Back-End Development:** Express.js
 - **Databases:** MongoDB, Firebase
-- **Others:** HTML, CSS, JavaScript, Typescript, Git
+- **Others:** HTML, CSS, JavaScript, Typescript, Git, aws 
 
 I enjoy building user-friendly and performant applications, and I'm always excited to learn new technologies and take on challenging projects.
 
@@ -31,11 +32,14 @@ I enjoy building user-friendly and performant applications, and I'm always excit
 ![CSS](https://img.shields.io/badge/-CSS3-black?logo=css3&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwind-css&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge)
+![Koa](https://img.shields.io/badge/-Koa-black?logo=koa&style=for-the-badge)
+
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kamdilichukwu-okolo-084037284)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)](https://x.com/kamdi_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)]([https://x.com/kamdi_dev](https://x.com/kamdi_mdev))
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:kamdilichukwu2020@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&style=for-the-badge)](https://kamdidev.vercel.app)
 
@@ -48,8 +52,6 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boi-network12&layout=compact&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boi-network12&theme=radical)
-
-
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boi-network12&theme=radical)
 
