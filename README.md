@@ -54,7 +54,7 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=boi-network12&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boi-network12&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=boi-network12&show_icons=true&theme=radical) ![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=boi-network12&theme=radical)
 
 <!-- Optional: Add a GitHub streak stats -->
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=boi-network12&theme=radical)
+
