@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=boi-network12&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
 Hi there! I'm a creative full-stack developer with a passion for turning ideas into powerful digital solutions.
- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=boi-network12.visitor-badge)
+
 
 ## About Me
 
