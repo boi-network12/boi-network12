@@ -1,4 +1,4 @@
-# Hello, I'm Okolo Kamdilichukwu Samuel 👋
+# Hello, I'm Okolo Kamdilichukwu Samuel (kamdi dev) 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=boi-network12&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
